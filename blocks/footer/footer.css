@@ -1,0 +1,50 @@
+.footer
+{
+    background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+    padding-top: 25px;
+    padding-left: 100px;
+    padding-bottom: 25px;
+}
+
+.footer__content
+{
+    margin-bottom: 100px;
+}
+
+.footer__social
+{
+margin-left: 30px;
+}
+
+.footer__social-heading
+{
+    color: white;
+}
+
+.footer__list
+{
+    list-style: none;
+    margin-left: -40px;
+}
+
+.footer__list-item
+{
+    margin-bottom: 10px;
+}
+
+.footer__social-link
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer__social-icon
+{
+    margin-right: 10px;
+}
+
+.footer__copyright
+{
+    color: white;
+}

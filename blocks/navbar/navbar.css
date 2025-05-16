@@ -1,0 +1,17 @@
+.nav
+{
+    color: black;
+}
+
+.nav__links
+{
+    list-style: none;
+    display: inline-flex;
+    gap: 20px;
+}
+
+.nav__link
+{
+    color: black;
+    text-decoration: none;
+}
